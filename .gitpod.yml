@@ -3,8 +3,7 @@ tasks:
     before: sudo apt-get install -y graphviz
     init: python -m pip install --upgrade pip
     command: pip install algviz && exit
-workspaceLocation: "./notebooks"
 vscode:
   extensions:
-    - ms-python.Pyhton
+    - ms-python.Python
     - ms-toolsai.Jupyter
