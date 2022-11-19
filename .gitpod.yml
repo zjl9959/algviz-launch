@@ -1,7 +1,10 @@
 tasks:
-  - name: install-graphviz
-    init: sudo apt-get install -y graphviz
-  - name: install-algviz
+  - name: setup-env
+    before: sudo apt-get install -y graphviz
     init: python -m pip install --upgrade pip
-    command: pip install algviz
-checkoutLocation: notebooks
+    command: pip install algviz && exit
+workspaceLocation: "./notebooks"
+vscode:
+  extensions:
+    - ms-python.Pyhton
+    - ms-toolsai.Jupyter
