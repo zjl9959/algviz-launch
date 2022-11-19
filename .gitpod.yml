@@ -1,0 +1,7 @@
+tasks:
+  - name: install-graphviz
+    init: sudo apt-get install -y graphviz
+  - name: install-algviz
+    init: python -m pip install --upgrade pip
+    command: pip install algviz
+checkoutLocation: notebooks
