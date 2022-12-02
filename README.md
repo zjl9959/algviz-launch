@@ -22,7 +22,7 @@ You can follow this guide to [setup your local environment](https://algviz.com/e
 
 ## Algorithms
 
-All the implemented algorithms are listed in this notebook [algorithms.ipynb](notebooks/algrithms.ipynb).
+All the implemented algorithms are listed in this notebook [algorithms.ipynb](notebooks/algorithms.ipynb).
 
 ## Contribute
 
