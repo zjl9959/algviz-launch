@@ -2,6 +2,7 @@ tasks:
   - name: setup-env
     before: sudo apt-get install -y graphviz python3
     init: python -m pip install --upgrade pip && pip install algviz
+    command: code notebooks/algorithms.ipynb && exit
 vscode:
   extensions:
     - ms-python.Python
