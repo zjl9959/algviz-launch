@@ -4,10 +4,6 @@ This repo collects the algorithm animations and source codes based on the projec
 
 *Algviz is an algorithm animatin engine implement in Python. You can learn more from [algviz.com](https://algviz.com/).*
 
-For example, this [notebook](notebooks/classic/BubbleSort.ipynb) show the animation of bubbleSort algorithm:
-
-![bubble_sort_example](https://cdn.jsdelivr.net/gh/zjl9959/algviz-launch@master/svgs/BubbleSort.svg)
-
 ## How to use?
 
 ### Online notebooks
