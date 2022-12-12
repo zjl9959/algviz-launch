@@ -29,6 +29,7 @@ If you would like to share your notebooks, please feel free to create PRs to thi
 |  [BubbleSort.ipynb](notebooks/classic/BubbleSort.ipynb)   | Implement of the [bubble sort](https://en.wikipedia.org/wiki/Bubble_sort) algorithm. |  <img src="https://cdn.jsdelivr.net/gh/zjl9959/algviz-launch@master/svgs/BubbleSort_sec.svg" width=120px/> |
 |  [MergeSort.ipynb](notebooks/classic/MergeSort.ipynb)   | Animation of the [merge sort](https://algviz.com/en/MergeSort/) algorithm. |  <img src="https://cdn.jsdelivr.net/gh/zjl9959/algviz-launch@master/svgs/MergeSort_sec.svg" width=120px/> |
 |  [QuickSort.ipynb](notebooks/classic/QuickSort.ipynb)   | Animation of the [quick sort](https://algviz.com/en/QuickSort/) algorithm. |  <img src="https://cdn.jsdelivr.net/gh/zjl9959/algviz-launch@master/svgs/QuickSort_sec.svg" width=120px/> |
+|  [AStarPathFinding.ipynb](notebooks/classic/AStarPathFinding.ipynb)   | An heuristic path finding algorithm for grid maps. |  <img src="https://cdn.jsdelivr.net/gh/zjl9959/algviz-launch@master/svgs/AStarPathFinding_sec.svg" width=120px/> |
 
 ### Backtracking
 
