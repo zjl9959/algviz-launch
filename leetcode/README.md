@@ -14,4 +14,4 @@
 | 2439 | [最小化数组中的最大值](https://leetcode.cn/problems/minimize-maximum-of-array/) | [最小化数组中的最大值.ipynb](2439.最小化数组中的最大值.ipynb) | [力扣题解](https://leetcode.cn/problems/minimize-maximum-of-array/solution/er-fen-by-algviz-9xj3/) |
 | 6257 | [删除每行中的最大值](https://leetcode.cn/contest/weekly-contest-323/problems/delete-greatest-value-in-each-row/) | [删除每行中的最大值.ipynb](6257.删除每行中的最大值.ipynb) | - |
 | 6259 | [设计内存分配器](https://leetcode.cn/contest/weekly-contest-323/problems/design-memory-allocator/) | [设计内存分配器.ipynb](6259.设计内存分配器.ipynb) | [题解链接](https://leetcode.cn/problems/design-memory-allocator/solution/python-dong-hua-mo-ni-by-algviz-dy5y/) |
-| 6899 | [达到末尾下标所需的最大跳跃次数](https://leetcode.cn/contest/weekly-contest-353/problems/maximum-number-of-jumps-to-reach-the-last-index/) | [达到末尾下标所需的最大跳跃次数.ipynb](6899.达到末尾下标所需的最大跳跃次数.ipynb) | |
+| 6899 | [达到末尾下标所需的最大跳跃次数](https://leetcode.cn/contest/weekly-contest-353/problems/maximum-number-of-jumps-to-reach-the-last-index/) | [达到末尾下标所需的最大跳跃次数.ipynb](6899.达到末尾下标所需的最大跳跃次数.ipynb) | [力扣讨论](https://leetcode.cn/circle/discuss/izfEyo/) |
