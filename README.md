@@ -44,7 +44,6 @@ If you would like to share your notebooks, please feel free to create PRs to thi
 
 ### More Examples
 
-<img alt="leetcode" src="https://static.leetcode.cn/cn-frontendx-assets/production/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png?x-oss-process=image%2Fformat%2Cwebp" width="32px"></img> [Leetcode problems](leetcode/README.md)
++ <img alt="leetcode" src="https://static.leetcode.cn/cn-frontendx-assets/production/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png?x-oss-process=image%2Fformat%2Cwebp" width="32px"></img> [Leetcode problems](leetcode/README.md)
 
-
-<img alt="Bilibili" src="https://user-images.githubusercontent.com/20344258/50698395-cac04500-107f-11e9-89df-a4b52eff7586.png" width="32px"></img> [Bilibili videos](bilibili/README.md)
++ <img alt="Bilibili" src="https://user-images.githubusercontent.com/20344258/50698395-cac04500-107f-11e9-89df-a4b52eff7586.png" width="32px"></img> [Bilibili videos](bilibili/README.md)

@@ -2,4 +2,4 @@
 
 |   B站视频链接   |  可视化源码笔记  | 备注 |
 | :-----: | :-----:   |  :-----:   |
-| [数据结构可视化：线段树，一探究竟！](https://www.bilibili.com/video/BV13H4y1S7yH/?share_source=copy_web&vd_source=5ccc44a29bfd968270fdfb991ab3eac1) | [SegmentTree.ipynb](../tree/SegmentTree.ipynb) | <img src="http://i0.hdslb.com/bfs/archive/3289dfcbf0a4da210f46bffd12ca61b317ddd6ea.jpg" width="240px" alt="视频封面"></img> |
+| [数据结构可视化：线段树，一探究竟！](https://www.bilibili.com/video/BV13H4y1S7yH/?share_source=copy_web&vd_source=5ccc44a29bfd968270fdfb991ab3eac1) | [SegmentTree.ipynb](../tree/SegmentTree.ipynb) | <img src="imgs/SegmentTree.jpg" width="180px" alt="视频封面"></img> |
