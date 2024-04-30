@@ -40,5 +40,10 @@ If you would like to share your notebooks, please feel free to create PRs to thi
 | [Kruskal.ipynb](graph/Kruskal.ipynb) | TODO | - |
 | [Prim.ipynb](graph/Prim.ipynb) | Generate the minimum span tree. <br> Pick one vertex from the graph each time. | <img src="https://cdn.jsdelivr.net/gh/zjl9959/algviz-launch@master/svgs/Prim_sec.svg" width=120px /> |
 | [SameTree.ipynb](leetcode/100.SameTree.ipynb) | [SameTree](https://leetcode.com/problems/same-tree/) leetcode | <img src="https://cdn.jsdelivr.net/gh/zjl9959/algviz-launch@master/svgs/SameTree_sec.svg" width=160px /> |
-| [SmallestNumberinInfiniteSet.ipynb](leetcode/2336.SmallestNumberinInfiniteSet.ipynb) | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) leetcode | - |
 | [ReverseLinkedList](leetcode/206.ReverseLinkedList.ipynb)   | [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/) leetcode | <img src="https://cdn.jsdelivr.net/gh/zjl9959/algviz-launch@master/svgs/ReverseLinkedList_sec.svg" width=200px /> |
+
+### More Examples
+
++ <img alt="leetcode" src="https://static.leetcode.cn/cn-frontendx-assets/production/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png?x-oss-process=image%2Fformat%2Cwebp" width="32px"></img> [Leetcode problems](leetcode/README.md)
+
++ <img alt="Bilibili" src="https://user-images.githubusercontent.com/20344258/50698395-cac04500-107f-11e9-89df-a4b52eff7586.png" width="32px"></img> [Bilibili videos](bilibili/README.md)
